@@ -8,6 +8,8 @@ gem 'sqlite3', group: [:development, :test]
 
 #Use bootstrap library for styles
 gem 'bootstrap-sass', '3.3.1'
+# Font Awesome gem 
+gem 'font-awesome-sass', '4.2.0'
 
 #Use postgresql as database for production
 group :production do
